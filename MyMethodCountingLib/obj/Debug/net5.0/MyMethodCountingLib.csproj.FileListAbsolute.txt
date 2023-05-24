@@ -1,0 +1,12 @@
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\bin\Debug\net5.0\MyMethodCountingLib.deps.json
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\bin\Debug\net5.0\MyMethodCountingLib.dll
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\bin\Debug\net5.0\ref\MyMethodCountingLib.dll
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\bin\Debug\net5.0\MyMethodCountingLib.pdb
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.csproj.AssemblyReference.cache
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.AssemblyInfoInputs.cache
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.AssemblyInfo.cs
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.csproj.CoreCompileInputs.cache
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.dll
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\ref\MyMethodCountingLib.dll
+D:\Desktop\MyMethodCountingLib\MyMethodCountingLib\obj\Debug\net5.0\MyMethodCountingLib.pdb
